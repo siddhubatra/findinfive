@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700&display=swap');
+
+body {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+#splash {
+    height: 500px;
+    font-size: 25px; 
+}
+
+.sticky {
+    height: 135px; 
+    background-color: #1b9891;
+    position: fixed;
+    top: 0; 
+}
+
+.carousel .carousel-item{
+    width: 325px;
+    height: 500px; 
+}
+
+.border {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.color  {
+    background-color: #1b9891;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 640px) {
+
+} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+
+} 
+
+ 
